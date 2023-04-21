@@ -6,7 +6,7 @@ Software app developed for challenge
 
 1. Rest API <surveyapp-ws>
 
-2. Rest API <surveyapp-ui>
+2. GUI <surveyapp-ui>
   
 ## Stack Tech
 
