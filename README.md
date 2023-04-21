@@ -30,7 +30,7 @@ Software app developed for challenge
   
 10. Material UI
   
-## Steps to settings
+## Settings
   
 **1. Clone the apps
 
