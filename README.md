@@ -25,6 +25,10 @@ Software app developed for challenge
 7. Security Rest API
   
 8. Docker
+
+9. React
+  
+10. Material UI
   
 ## Pasos para Configurar
   
